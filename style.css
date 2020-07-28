@@ -1,0 +1,24 @@
+input {
+    min-width: 150px;
+    min-height: 20px;
+    display: block;
+}
+
+button {
+    min-width: 100px;
+    min-height: 50px;
+}
+.green {
+    color: white;
+    background-color: rgb(20, 122, 42);
+}
+
+.blue {
+    color: white;
+    background-color: rgb(32, 0, 150);
+}
+
+.red {
+    color: white;
+    background-color: rgb(114, 6, 6);
+}
